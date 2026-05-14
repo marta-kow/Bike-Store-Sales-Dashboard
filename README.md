@@ -1,4 +1,4 @@
-# 🚲 Bike Store Sales Dashboard | Power BI
+# Bike Store Sales Dashboard | Power BI
 
 Interactive sales dashboard built in Power BI, based on the Bike Store dataset. Designed to give a clear overview of sales performance across stores, categories, and time.
 
@@ -6,7 +6,7 @@ Interactive sales dashboard built in Power BI, based on the Bike Store dataset. 
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 ### KPI Cards
 | Metric | Description |
@@ -23,12 +23,12 @@ Interactive sales dashboard built in Power BI, based on the Bike Store dataset. 
 
 ---
 
-## 🗂️ Data Source
+## Data Source
 
 Dataset: 1,445 customers, 1,615 orders, 321 products, 3 stores, 9 brands, 2016 - 2018 (https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database)
 
 ---
 
-## 🛠️ Tools
+## Tools
 - Power BI Desktop
 - Data source: MySQL (Bike Store database)
