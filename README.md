@@ -18,8 +18,8 @@ Interactive sales dashboard built in Power BI, based on the Bike Store dataset. 
 | Averageg Discount Value | Average discount per order |
 
 ### Visuals
-- **Total Sales by Store (YoY)** — year-over-year revenue comparison across Baldwin Bikes, Santa Cruz Bikes, and Rowlett Bikes
-- **Total Sales by Bike Category** — bar chart comparing revenue across 7 product categories (Cruisers, Mountain Bikes, Road Bikes, etc.)
+- **Total Sales by Store (YoY)** - year-over-year revenue comparison across Baldwin Bikes, Santa Cruz Bikes, and Rowlett Bikes
+- **Total Sales by Bike Category** - bar chart comparing revenue across 7 product categories (Cruisers, Mountain Bikes, Road Bikes, etc.)
 
 ---
 
